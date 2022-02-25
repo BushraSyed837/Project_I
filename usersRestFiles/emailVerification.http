@@ -1,0 +1,6 @@
+POST http://localhost:3000/emailVerification/6218f9948cc982adce11c5dc HTTP/1.1
+Content-Type: application/json
+
+{
+    "code": "75542"
+}

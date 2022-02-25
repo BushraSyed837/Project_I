@@ -1,0 +1,8 @@
+POST http://localhost:3000/login/6218f9948cc982adce11c5dc HTTP/1.1
+Content-Type: application/json
+
+{
+    "email" : "bushraabbas3681@gmail.com",
+    "password": "bushra12341",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMThmOTk0OGNjOTgyYWRjZTExYzVkYyIsImlhdCI6MTY0NTgwNDMzMX0.tpi6RAQer0gluFJlSVNgO35mpwbzN8xvVLMBxAg3WZY"
+}

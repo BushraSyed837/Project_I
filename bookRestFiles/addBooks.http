@@ -1,0 +1,9 @@
+POST http://localhost:3000/addBooks/6215c01cf9530c5f6debeb1f HTTP/1.1
+Content-Type: application/json
+
+{
+    "bookTitle": "Harry Potter and the Chamber of Secrets",
+    "bookAuthor": "J. K. Rowling",
+    "bookEdition": "3rd Ed",
+    "dateOfPublication": "July 2, 1998"
+}

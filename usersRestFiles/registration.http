@@ -1,0 +1,11 @@
+
+POST http://localhost:3000/registration HTTP/1.1
+Content-Type: application/json
+
+{
+     "username": "bushra12",
+     "email" : "bushraabbas3681@gmail.com",
+     "password": "bushra12341",
+     "confirmPassword": "bushra12341",
+     "phoneNumber": "03315659484"
+}
